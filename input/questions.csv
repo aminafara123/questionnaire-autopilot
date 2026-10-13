@@ -1,0 +1,16 @@
+ID,Framework,Question
+Q01,CAIQ,Do you enforce multi-factor authentication for access to production systems?
+Q02,SOC2,How do you manage user access reviews and deprovisioning of departing staff?
+Q03,ISO27001,Is customer data encrypted at rest and in transit? Which algorithms are used?
+Q04,CAIQ,Do you manage and rotate encryption keys? How often are keys rotated?
+Q05,SOC2,Do you have a documented incident response plan and what is your breach notification timeline?
+Q06,ISO27001,How are security incidents classified and escalated?
+Q07,CAIQ,What is your data retention and secure disposal policy?
+Q08,SOC2,How long is customer data and backup data retained after contract termination?
+Q09,ISO27001,Do you have a business continuity and disaster recovery plan? What are your RTO and RPO?
+Q10,CAIQ,How frequently are backups performed and tested?
+Q11,SOC2,How do you assess the security of third-party vendors and subprocessors?
+Q12,ISO27001,Do you require vendors that handle customer data to sign a data protection agreement?
+Q13,CAIQ,Do you enforce role-based access control and least privilege?
+Q14,SOC2,Do you conduct criminal background checks on employees before hire?
+Q15,ISO27001,Do you perform regular penetration testing and vulnerability scanning of your applications?
