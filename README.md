@@ -41,6 +41,16 @@ flowchart LR
     F --> M[review-report.md]
 ```
 
+## Install
+
+```bash
+# install as a command-line tool (recommended)
+pipx install git+https://github.com/aminafara123/questionnaire-autopilot
+questionnaire-autopilot --questions input/questions.csv --policies policies --out output
+```
+
+Or install into the current environment from a clone with `pip install .`. The `make` targets and `python autopilot.py` path below still work for local development.
+
 ## Quickstart
 
 ```bash
